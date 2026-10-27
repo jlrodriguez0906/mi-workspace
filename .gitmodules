@@ -1,0 +1,6 @@
+[submodule "mi-backend"]
+	path = mi-backend
+	url = https://github.com/jlrodriguez0906/mi-backend.git
+[submodule "mi-frontend"]
+	path = mi-frontend
+	url = https://github.com/jlrodriguez0906/mi-frontend.git
